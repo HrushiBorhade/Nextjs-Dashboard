@@ -13,11 +13,12 @@ export default function Page() {
           <p
             className={`text-2xl text-[#1B2612] md:text-4xl md:leading-tight font-semibold `}
           >
-            Data-Driven Insights
-            <br /> for Android Apps
+            Data-Driven Insights for
+            <br />
+            Investing in Android Apps
           </p>
-          <p className="text-sm mb-2 text-[#c4c4c6] md:text-base md:leading-tight ">
-            Discover Android apps that are dominating the market with our
+          <p className="text-sm mb-4 text-[#d3d3d5] md:text-base md:leading-tight ">
+            Discover Android apps that are dominating the market <br /> with our
             interactive dashboard.
           </p>
           <Link
